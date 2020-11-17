@@ -739,12 +739,8 @@ h6 {
 }
 
 #features .sixpm_img {
-  height: 400px;
-  width: 400px;
-  margin-left: 50px;
-  margin-right: 50px;
-  position: relative;
-  align-items: center;
+  width: 100%;
+  align-items: left;
 }
 
 /* Portfolio Section
